@@ -1,0 +1,25 @@
+{
+  "name": "d3NodeAllCharts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./example",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3",
+    "cli",
+    "node"
+  ],
+  "author": "Vivek",
+  "license": "ISC",
+  "dependencies": {
+    "d3node-piechart": "0.0.10",
+    "express": "^4.17.1"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "description": ""
+}
